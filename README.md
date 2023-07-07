@@ -1,4 +1,4 @@
-<div align="center">## Hello, I'm Eduardo Olimpio, engineer and technology developer.
+<div align="center">## Hello, I'm Eduardo Olimpio, engineer and web developer.
   <div>www.eduardoolimpio.com</div></br>
   </div>
 <div align="center">
